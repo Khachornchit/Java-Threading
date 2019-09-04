@@ -1,4 +1,4 @@
-package thread03.synchronizedKeyword;
+package thread03.synchronizedkeyword;
 
 public class App {
 

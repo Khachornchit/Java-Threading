@@ -1,4 +1,4 @@
-package thread01.startThread03.inlineRunnable;
+package thread0103.inlinecode;
 
 public class App {
 

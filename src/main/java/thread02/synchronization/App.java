@@ -1,4 +1,4 @@
-package thread02.basicThreadSynchronization;
+package thread02.synchronization;
 
 import java.util.Scanner;
 

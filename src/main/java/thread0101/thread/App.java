@@ -1,6 +1,6 @@
-package thread01.startThread02.runnable;
+package thread0101.thread;
 
-class Runner implements Runnable {
+class Runner extends Thread {
 	public void run() {
 		for (int i = 0; i < 100; i++) {
 			System.out.println(String.format("%s %s", Thread.currentThread().getName(), i));
@@ -17,11 +17,11 @@ class Runner implements Runnable {
 public class App {
 
 	public static void main(String[] args) {
-		Thread t1 = new Thread(new Runner());		
-		Thread t2 = new Thread(new Runner());
-		
-		t1.start();
-		t2.start();
+		Runner runner1 = new Runner();
+		runner1.start();
+
+		Runner runner2 = new Runner();
+		runner2.start();
 	}
 
 }
