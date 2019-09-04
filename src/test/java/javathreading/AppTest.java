@@ -5,7 +5,7 @@ package javathreading;
 
 import org.junit.Test;
 
-import extendsThreading.App;
+import threading.extend.App;
 
 import static org.junit.Assert.*;
 
