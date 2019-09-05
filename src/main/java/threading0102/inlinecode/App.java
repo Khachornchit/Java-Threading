@@ -1,4 +1,4 @@
-package thread0103.inlinecode;
+package threading0102.inlinecode;
 
 public class App {
 

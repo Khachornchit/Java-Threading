@@ -1,4 +1,4 @@
-package thread02.synchronization;
+package threading0200.synchronization;
 
 import java.util.Scanner;
 

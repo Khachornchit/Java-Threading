@@ -1,4 +1,4 @@
-package thread0102.runnable;
+package threading0101.runnable;
 
 class Runner implements Runnable {
 	public void run() {
