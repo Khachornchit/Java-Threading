@@ -1,7 +1,9 @@
 package net.putfirstthingsfirst.thread.tests;
 
-import static org.junit.jupiter.api.Assertions.assertNotNull;
-import org.junit.jupiter.api.Test;
+import static org.junit.Assert.assertNotNull;
+
+import org.junit.Test;
+
 import net.putfirstthingsfirst.thread.*;
 
 public class AppTest {
