@@ -5,7 +5,11 @@ package javathreading;
 
 import org.junit.Test;
 
+<<<<<<< HEAD
 import net.putfirstthingsfirst.extendsThreading.App;
+=======
+import threading.extend.App;
+>>>>>>> e533d501c0a93396dfbb54dc25c77dd1b84c7976
 
 import static org.junit.Assert.*;
 
